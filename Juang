@@ -1,0 +1,32 @@
+[
+  {
+    "keys": [
+      {
+        "kty": "oct",
+        "k": "sMtG0tMc8ES8c9tx6YZfbw",
+        "kid": "t3DVtLtrWU2vmFhFqumqXw"
+      }
+    ],
+    "type": "temporary"
+  },
+  {
+    "keys": [
+      {
+        "kty": "oct",
+        "k": "eWW68lbagdQs6Uf1sORDow",
+        "kid": "wAnwe7uYSeOJstMG5evosQ"
+      }
+    ],
+    "type": "temporary"
+  },
+  {
+    "keys": [
+      {
+        "kty": "oct",
+        "k": "lTCH00mHFCHs8y7TcvmdPw",
+        "kid": "lBYq20ehTeaUGDR241FMIA"
+      }
+    ],
+    "type": "temporary"
+  }
+]
